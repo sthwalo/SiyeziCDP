@@ -1,0 +1,10 @@
+box-sizing
+
+
+body{
+    background-color: #222;
+    background-image: url(../Images/hill.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    display: flex;
+}
